@@ -1,0 +1,2 @@
+# MiakeCode
+Assignment for college
